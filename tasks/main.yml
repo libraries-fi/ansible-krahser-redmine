@@ -8,7 +8,7 @@
     - ruby
     - build-essential
     - ruby-dev
-    - libmysqlclient-dev
+    - libmariadbclient-dev
     - libpq-dev
     - libmagickwand-dev
     - libsqlite3-dev
